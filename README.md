@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HandanYenial
-- 🌱 I’m currently Software Engineering student in Springboard.
+
 
 
 <!---
